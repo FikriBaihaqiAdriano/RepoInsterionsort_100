@@ -62,3 +62,10 @@ void display() {
 		cout << arr[j] << " ";
 	}
 }
+
+int main()
+{
+	input();
+	insertionsort();
+	display();
+}
